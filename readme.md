@@ -16,5 +16,3 @@ functions.php 側でデバッグのための exit()をそのままにしてい�
 また、FileZila の仕組みを理解が始めできておらず、VsCode の要領で考えていたため、「常に最新化はされていない」ということに途中で気づきハッとさせられました笑
 
 ⑦ 質問・疑問・感想、シェアしたいこと等なんでも
-
-⑧ 参考ページ https://kinsta.com/jp/knowledgebase/javascript-http-request/ https://zius.speever.jp/blog/web_site_creation/modal-window/#index_id6
